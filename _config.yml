@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paige E. Martin"
+title                    : "Peter Varela"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Paige Martin"
-description              : "Paige's WebPaige"
-url                      : "https://paigem.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Peter Varela"
+description              : "Peter's Webpage"
+url                      : "https://petervarela.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paige E. Martin"
+  name             : "Peter Varela"
   avatar           : "/assets/paige_photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Open Science Expert & Enthusiast"
   location         : "Canberra, Australia"
